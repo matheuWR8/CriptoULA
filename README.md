@@ -51,5 +51,5 @@ O Cripto-ALU é um sistema de criptografia educacional desenvolvido no ambiente 
 
 O vídeo demonstrando o funcionamento do processador, a arquitetura desenvolvida e testes práticos está disponível em:
 
-👉 **[vídeo explicativo](LINK)**
+👉 **[vídeo explicativo](https://youtu.be/sQjxBYaWARk)**
 
